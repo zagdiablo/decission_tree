@@ -8,8 +8,8 @@ Algoritma data mining C4.5 merupakan salah satu algoritma yang digunakan untuk m
 
 
 ## Note
-Semua kode dan atribut di atas adalah milik: cendra devayana putra - github.com/Cendra123<br>
+Semua kode dan atribut di atas adalah milik: cendra devayana putra - https://github.com/Cendra123 <br>
 saya hanya menulis ulang sebagai sarana belajar dan memenuhi syarat penilaian UAS Kecerdasan Buatan.
 
-All code and atribute belongs to: cendra devayana putra - github.com/Cendra123<br>
+All code and atribute belongs to: cendra devayana putra - https://github.com/Cendra123 <br>
 I re-wrote the code for learning purposes only and for requirement of completing Artificial Intelligence Final Exam.
